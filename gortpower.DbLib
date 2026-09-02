@@ -15,7 +15,7 @@ LibraryDatabaseType=
 LibraryDatabasePath=
 DatabasePathRelative=0
 TopPanelCollapsed=0
-LibrarySearchPath=C:\GIT\gortpowerlib\symbols;C:\GIT\gortpowerlib\footprints
+LibrarySearchPath=C:\Users\olega\Desktop\gortpowerlib\symbols;C:\Users\olega\Desktop\gortpowerlib\footprints
 OrcadMultiValueDelimiter=,
 SearchSubDirectories=1
 SchemaName=
@@ -203,6 +203,18 @@ UserWhereText=
 [Table31]
 SchemaName=
 TableName=GORT Power DC/DC
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table32]
+SchemaName=
+TableName=HT7550
+Enabled=True
+UserWhere=0
+UserWhereText=
+[Table33]
+SchemaName=
+TableName=Power Transformers
 Enabled=True
 UserWhere=0
 UserWhereText=
@@ -2090,3 +2102,75 @@ Options=FieldName=GORT Power DC/DC.ComponentLink3URL|TableNameOnly=GORT Power DC
 Options=FieldName=GORT Power DC/DC.Description|TableNameOnly=GORT Power DC/DC|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap942]
 Options=FieldName=GORT Power DC/DC.Verified|TableNameOnly=GORT Power DC/DC|FieldNameOnly=Verified|FieldType=1|ParameterName=Verified|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap943]
+Options=FieldName=HT7550.MPN|TableNameOnly=HT7550|FieldNameOnly=MPN|FieldType=0|ParameterName=MPN|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap944]
+Options=FieldName=HT7550.Manufacturer|TableNameOnly=HT7550|FieldNameOnly=Manufacturer|FieldType=1|ParameterName=Manufacturer|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap945]
+Options=FieldName=HT7550.Library Ref|TableNameOnly=HT7550|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap946]
+Options=FieldName=HT7550.Library Path|TableNameOnly=HT7550|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap947]
+Options=FieldName=HT7550.Footprint Ref|TableNameOnly=HT7550|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap948]
+Options=FieldName=HT7550.Footprint Path|TableNameOnly=HT7550|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap949]
+Options=FieldName=HT7550.Footprint Ref 2|TableNameOnly=HT7550|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap950]
+Options=FieldName=HT7550.Footprint Path 2|TableNameOnly=HT7550|FieldNameOnly=Footprint Path 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap951]
+Options=FieldName=HT7550.Footprint Ref 3|TableNameOnly=HT7550|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap952]
+Options=FieldName=HT7550.Footprint Path 3|TableNameOnly=HT7550|FieldNameOnly=Footprint Path 3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap953]
+Options=FieldName=HT7550.ComponentLink1Description|TableNameOnly=HT7550|FieldNameOnly=ComponentLink1Description|FieldType=1|ParameterName=ComponentLink1Description|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap954]
+Options=FieldName=HT7550.ComponentLink1URL|TableNameOnly=HT7550|FieldNameOnly=ComponentLink1URL|FieldType=1|ParameterName=ComponentLink1URL|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap955]
+Options=FieldName=HT7550.ComponentLink2Description|TableNameOnly=HT7550|FieldNameOnly=ComponentLink2Description|FieldType=1|ParameterName=ComponentLink2Description|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap956]
+Options=FieldName=HT7550.ComponentLink2URL|TableNameOnly=HT7550|FieldNameOnly=ComponentLink2URL|FieldType=1|ParameterName=ComponentLink2URL|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap957]
+Options=FieldName=HT7550.ComponentLink3Description|TableNameOnly=HT7550|FieldNameOnly=ComponentLink3Description|FieldType=1|ParameterName=ComponentLink3Description|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap958]
+Options=FieldName=HT7550.ComponentLink3URL|TableNameOnly=HT7550|FieldNameOnly=ComponentLink3URL|FieldType=1|ParameterName=ComponentLink3URL|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap959]
+Options=FieldName=HT7550.Description|TableNameOnly=HT7550|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap960]
+Options=FieldName=HT7550.Verified|TableNameOnly=HT7550|FieldNameOnly=Verified|FieldType=1|ParameterName=Verified|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap961]
+Options=FieldName=Power Transformers.MPN|TableNameOnly=Power Transformers|FieldNameOnly=MPN|FieldType=0|ParameterName=MPN|VisibleOnAdd=True|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap962]
+Options=FieldName=Power Transformers.Manufacturer|TableNameOnly=Power Transformers|FieldNameOnly=Manufacturer|FieldType=1|ParameterName=Manufacturer|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap963]
+Options=FieldName=Power Transformers.Library Ref|TableNameOnly=Power Transformers|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap964]
+Options=FieldName=Power Transformers.Library Path|TableNameOnly=Power Transformers|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap965]
+Options=FieldName=Power Transformers.Footprint Ref|TableNameOnly=Power Transformers|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap966]
+Options=FieldName=Power Transformers.Footprint Path|TableNameOnly=Power Transformers|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap967]
+Options=FieldName=Power Transformers.Footprint Ref 2|TableNameOnly=Power Transformers|FieldNameOnly=Footprint Ref 2|FieldType=1|ParameterName=[Footprint Ref 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap968]
+Options=FieldName=Power Transformers.Footprint Path 2|TableNameOnly=Power Transformers|FieldNameOnly=Footprint Path 2|FieldType=1|ParameterName=[Footprint Path 2]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap969]
+Options=FieldName=Power Transformers.Footprint Ref 3|TableNameOnly=Power Transformers|FieldNameOnly=Footprint Ref 3|FieldType=1|ParameterName=[Footprint Ref 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap970]
+Options=FieldName=Power Transformers.Footprint Path 3|TableNameOnly=Power Transformers|FieldNameOnly=Footprint Path 3|FieldType=1|ParameterName=[Footprint Path 3]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap971]
+Options=FieldName=Power Transformers.ComponentLink1Description|TableNameOnly=Power Transformers|FieldNameOnly=ComponentLink1Description|FieldType=1|ParameterName=ComponentLink1Description|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap972]
+Options=FieldName=Power Transformers.ComponentLink1URL|TableNameOnly=Power Transformers|FieldNameOnly=ComponentLink1URL|FieldType=1|ParameterName=ComponentLink1URL|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap973]
+Options=FieldName=Power Transformers.ComponentLink2Description|TableNameOnly=Power Transformers|FieldNameOnly=ComponentLink2Description|FieldType=1|ParameterName=ComponentLink2Description|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap974]
+Options=FieldName=Power Transformers.ComponentLink2URL|TableNameOnly=Power Transformers|FieldNameOnly=ComponentLink2URL|FieldType=1|ParameterName=ComponentLink2URL|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap975]
+Options=FieldName=Power Transformers.ComponentLink3Description|TableNameOnly=Power Transformers|FieldNameOnly=ComponentLink3Description|FieldType=1|ParameterName=ComponentLink3Description|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap976]
+Options=FieldName=Power Transformers.ComponentLink3URL|TableNameOnly=Power Transformers|FieldNameOnly=ComponentLink3URL|FieldType=1|ParameterName=ComponentLink3URL|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap977]
+Options=FieldName=Power Transformers.Description|TableNameOnly=Power Transformers|FieldNameOnly=Description|FieldType=1|ParameterName=[Description]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap978]
+Options=FieldName=Power Transformers.Verified|TableNameOnly=Power Transformers|FieldNameOnly=Verified|FieldType=1|ParameterName=Verified|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
